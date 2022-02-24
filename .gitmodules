@@ -1,0 +1,3 @@
+[submodule "src/balena-nested"]
+	path = src/balena-nested
+	url = git@github.com:balena-io-playground/balena-nested.git
