@@ -1,4 +1,16 @@
 - commits:
+    - subject: openBalena on balenaOS
+      hash: 39327675eed75610fb0a562b6b9188bddd0239ca
+      body: ""
+      footer:
+        Change-type: major
+        change-type: major
+      author: ab77
+      nested: []
+  version: 4.0.0
+  title: "'openBalena on balenaOS'"
+  date: 2022-02-25T02:30:30.609Z
+- commits:
     - subject: "chore(registry): removed data volume"
       hash: 3fed389090e18cb977416cafea8a87c0ed4e2b7f
       body: ""
